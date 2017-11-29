@@ -1,1 +1,0 @@
-# Vastara_AndroidApp
